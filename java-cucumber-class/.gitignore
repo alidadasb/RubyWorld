@@ -1,0 +1,5 @@
+*.swp
+.DS_Store
+.metadata
+bin
+Icon*
